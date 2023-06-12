@@ -1,0 +1,2 @@
+# MiniProjectPlagiarism-checker
+Plagiarism checker
